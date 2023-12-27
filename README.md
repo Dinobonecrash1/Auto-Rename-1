@@ -1,7 +1,7 @@
 # Telegram Renamer Bot
 A Telegram Bot For Series/Anime Channel Admins So That They Can Rename Quickly And Efficently 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deployheroku.com/deploy?template=github.com/Dinobonecrash1/Auto-Rename-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinobonecrash1/Auto-Rename-1)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/18g9vy?referralCode=veB697)
 
